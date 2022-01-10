@@ -1,0 +1,18 @@
+$primary-font: 'Open Sans', sans-serif;
+$secondary-font: 'Dosis', sans-serif;
+$brand-font: 'Pacifico';
+$main-blue: #337ab7;
+
+.navbar-default {
+  font-family: $secondary-font;
+
+}
+.navbar .navbar-brand {
+    font-family: $brand-font;
+    font-weight: 100;
+    font-size: 30px;
+    letter-spacing: 2px;
+    color: $main-blue;
+  }
+  
+  
